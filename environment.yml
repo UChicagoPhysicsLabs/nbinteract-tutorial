@@ -1,0 +1,7 @@
+name: physics
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - appmode
